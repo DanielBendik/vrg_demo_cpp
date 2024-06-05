@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/xxxfr/Desktop/vrg_demo_cpp/build",
+  "command": "C:\\mingw-w64\\mingw32\\bin\\g++.exe  @CMakeFiles/ShootingSimulator.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\ShootingSimulator.dir\\main.cpp.obj -c C:\\Users\\xxxfr\\Desktop\\vrg_demo_cpp\\main.cpp",
+  "file": "C:/Users/xxxfr/Desktop/vrg_demo_cpp/main.cpp",
+  "output": "CMakeFiles/ShootingSimulator.dir/main.cpp.obj"
+}
+]
